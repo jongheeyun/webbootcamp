@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/9b28d8c/
+#heading	css/styles.css	/^#heading {$/;"	i
+.chillies	css/styles.css	/^.chillies {$/;"	c
+.circular	css/styles.css	/^.circular {$/;"	c
+.pear	css/styles.css	/^.pear {$/;"	c
+Header 1	README.md	/^# Header 1$/;"	c
+Header 2	README.md	/^## Header 2$/;"	s
+Header 3	README.md	/^### Header 3$/;"	S
+I love bacon	index.html	/^  <h1 id="heading">I love bacon<\/h1> $/;"	h
+Jekyll Themes	README.md	/^### Jekyll Themes$/;"	S
+Markdown	README.md	/^### Markdown$/;"	S
+Support or Contact	README.md	/^### Support or Contact$/;"	S
+Welcome to GitHub Pages	README.md	/^## Welcome to GitHub Pages$/;"	s
+body	css/styles.css	/^body {$/;"	s
+heading	index.html	/^  <h1 id="heading">I love bacon<\/h1> $/;"	I
+hr	css/styles.css	/^hr {$/;"	s
+p:hover	css/styles.css	/^p:hover {$/;"	s
